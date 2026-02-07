@@ -14,7 +14,7 @@ To improve reliability, the control algorithm includes an **anti-loop mechanism*
 
 ---
 
-## 🔧 Hardware Components
+## Hardware Components
 
 - **Arduino UNO** – main processing unit  
 - **L298N Motor Driver** – control of DC motors  
@@ -34,7 +34,7 @@ To improve reliability, the control algorithm includes an **anti-loop mechanism*
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 The robot follows a **differential drive** approach using two motor channels (left and right side).  
 The ultrasonic sensor continuously measures the distance in front of the vehicle, and the Arduino processes this data to decide the robot’s motion.
