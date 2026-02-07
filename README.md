@@ -92,20 +92,6 @@ This project serves as an introductory platform for understanding obstacle avoid
 
 ---
 
-## Repository Structure
-src/ -> Arduino source code
-
-simulation/ -> Tinkercad screenshots
-
-schematics/ -> Circuit diagrams
-
-report/ -> Project report (PDF)
-
----
-
-
----
-
 ## Author
 
 **Psarros Filippos**  
